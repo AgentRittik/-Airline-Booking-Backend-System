@@ -13,11 +13,11 @@ https://github.com/AgentRittik/AirTicketBookingService
 
 ## 3. Reminder Service
 
---REPOSITORY-LINK
+- REPOSITORY-LINK
 https://github.com/AgentRittik/Reminder_Service
 
 ## 4. Authentication Service
 
---REPOSITORY-LINK
+- REPOSITORY-LINK
 https://github.com/AgentRittik/Auth_Service
 
